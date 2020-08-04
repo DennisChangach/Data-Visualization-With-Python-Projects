@@ -1,1 +1,1 @@
-# Data-Visulaization-with-Python-Projects
+# Data-Visualization-with-Python-Projects
